@@ -76,7 +76,7 @@ stack:
 
 ## 📈 Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita-Devsarkar&bg_color=0d0d0d&color=0ff0fc&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=swamini%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita-Devsarkar&bg_color=0d0d0d&color=0ff0fc&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=NikitaContribution%20Graph" alt="Contribution Graph" width="100%"/>
 
 </div>
 
